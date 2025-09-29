@@ -2,9 +2,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=NorahAlshahrani)
 
-<!-- الصورة الشخصية -->
-![Profile Picture](https://via.placeholder.com/150) <!-- استبدلي الرابط برابط صورتك الحقيقي -->
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norah-alshahrani-8aa251286)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alshahrani.nor20@gmail.com)](mailto:alshahrani.nor20@gmail.com)
 
