@@ -27,7 +27,7 @@ Fluent in **Arabic 🇸🇦** and **English 🇬🇧**.
 
 ## 🚀 Projects
 - **E-Commerce Website on Azure** – 3-Tier Architecture  
-- Containerization & CI/CD with Docker & Azure DevOps (optional: add repo link)
+- Containerization & CI/CD with Docker & Azure DevOps 
 
 ---
 
